@@ -13,14 +13,14 @@ const introdata = {
     third: "Software Developer",
   },
   description:
-    "As a highly motivated job seeker with a strong background in computer science and a passion for web development and data analysis, I am excited to showcase my skills and experience through my portfolio. With experience in a variety of programming languages and frameworks, as well as strong communication and collaboration skills, I am confident in my ability to excel as a web developer or data scientist. Thank you for considering me for the position. I look forward to discussing my qualifications further and how I can contribute to your team!.",
+    "As a highly motivated job seeker with a strong background in computer science and a passion for web development and data analysis, I am excited to showcase my skills and experience through my portfolio. With experience in a variety of programming languages and frameworks, as well as strong communication and collaboration skills, I am confident in my ability to excel as a web developer or data scientist. Thank you for considering me for the position. I look forward in discussing my qualifications further and how I can contribute to your team!.",
   your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
   title: "A bit about my self",
   aboutme:
-    "Hello! My name is Nithya Shri and I am a recent graduate with a degree in computer science (IT). I am excited to start my career as a web developer and data scientist, and I am eager to apply my skills and knowledge to real-world projects. In my studies, I have gained experience in a variety of programming languages and frameworks, including HTML, CSS, JavaScript, Python, and SQL. I am also passionate about data analysis and visualization, and have had the opportunity to work on projects using tools such as Pandas, NumPy, and Matplotlib. In addition to my technical skills, I am a strong team player with excellent communication and collaboration abilities. I am confident in my ability to make a positive contribution as a web developer or data scientist, and I am excited to continue learning and growing in my career. Thank you for considering me for the position.",
+    "Hello! My name is Nithya Shri and I am a recent graduate with a degree in B.Tech IT. I am excited to start my career as a web developer and data scientist, and I am eager to apply my skills and knowledge to real-world projects. In my studies, I have gained experience in a variety of programming languages and frameworks, including HTML, CSS, JavaScript, Python, and SQL. I am also passionate about data analysis and visualization, and have had the opportunity to work on projects using tools such as Pandas, NumPy, and Matplotlib. In addition to my technical skills, I am a strong team player with excellent communication and collaboration abilities. I am confident in my ability to make a positive contribution as a web developer or data scientist, and I am excited to continue learning and growing in my career. Thank you for considering me for the position.",
 };
 const worktimeline = [
   {
@@ -175,9 +175,9 @@ const contactConfig = {
     "Thank you for visiting my portfolio! If you have any questions or would like to get in touch, please don't hesitate to contact me. I am always open to hearing from fellow professionals, potential collaborators, and anyone who is interested in my work. To get in touch, you can fill out the form on this page or reach out to me directly at email address or phone number. I will do my best to respond to your message as soon as possible. I am available for freelance work, consulting, and full-time opportunities. Whether you are looking for a web developer, data scientist, or someone with a particular skill set, I am always open to exploring new opportunities!",
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-  YOUR_SERVICE_ID: "service_5hagabi",
-  YOUR_TEMPLATE_ID: "template_z54lkrl",
-  YOUR_USER_ID: "CAmFZ_pEmDcKqDKfJ",
+  YOUR_SERVICE_ID: "service_xtktvxl",
+  YOUR_TEMPLATE_ID: "template_gnhu8ft",
+  YOUR_USER_ID: "CwiZugEQuVaK3lznu",
 };
 
 const socialprofils = {
