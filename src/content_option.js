@@ -13,7 +13,7 @@ const introdata = {
     third: "Software Developer",
   },
   description:
-    "As a highly motivated job seeker with a strong background in computer science and a passion for web development and data analysis, I am excited to showcase my skills and experience through my portfolio. With experience in a variety of programming languages and frameworks, as well as strong communication and collaboration skills, I am confident in my ability to excel as a web developer or data scientist. Thank you for considering me for the position. I look forward in discussing my qualifications further and how I can contribute to your team!.",
+    "As a highly motivated job seeker with a strong background in computer science and a passion for web development and data analysis, I am excited to showcase my skills and experience through my portfolio. With experience in a variety of programming languages and frameworks, as well as strong communication and collaboration skills, I am confident in my ability to excel as a web developer or data scientist. Thank you for considering me for the position. I look forward in discussing my qualifications further and how I can contribute to your team!",
   your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
